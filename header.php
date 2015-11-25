@@ -7,6 +7,7 @@
 		<link rel="stylesheet" type="text/css" href="asset/css/style.css" />
 		<link rel="stylesheet" type="text/css" href="asset/owl-carousel/owl.carousel.css" />
 		<link rel="stylesheet" type="text/css" href="asset/owl-carousel/owl.theme.css" />
+		<link rel="stylesheet" type="text/css" href="asset/fancybox/jquery.fancybox.css" />
 		<link href='https://fonts.googleapis.com/css?family=Roboto:300,400,400italic,500,500italic,700,700italic' rel='stylesheet' type='text/css'>
 	</head>
 	<body>
@@ -40,13 +41,9 @@
 								Profil <span class="caret"></span>
 							</a>
 							<ul class="dropdown-menu">
-								<li><a href="#">Action</a></li>
-					            <li><a href="#">Another action</a></li>
-					            <li><a href="#">Something else here</a></li>
-					            <li role="separator" class="divider"></li>
-					            <li><a href="#">Separated link</a></li>
-					            <li role="separator" class="divider"></li>
-					            <li><a href="#">One more separated link</a></li>
+								<li><a href="#">Visi Misi</a></li>
+					            <li><a href="#">Tupoksi</a></li>
+					            <li><a href="#">Struktur Organisasi</a></li>
 					        </ul>
 					    </li>
 					    <li class="dropdown">
@@ -54,13 +51,9 @@
 								UPTD <span class="caret"></span>
 							</a>
 							<ul class="dropdown-menu">
-								<li><a href="#">Action</a></li>
-					            <li><a href="#">Another action</a></li>
-					            <li><a href="#">Something else here</a></li>
-					            <li role="separator" class="divider"></li>
-					            <li><a href="#">Separated link</a></li>
-					            <li role="separator" class="divider"></li>
-					            <li><a href="#">One more separated link</a></li>
+								<li><a href="#">UPTD Agribisnis</a></li>
+								<li><a href="#">UPTD Pangkalan Pendaratan Ikan</a></li>
+								<li><a href="#">UPTD RPH Sapi</a></li>
 					        </ul>
 					    </li>
 					    <li><a href="#">Produk Unggulan</a></li>

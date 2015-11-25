@@ -33,7 +33,7 @@
 	<section class="top-item">
 		<div class="container">
 			<div class="col-md-4">
-				<img src="img/UPTD_Agribisnis.jpg" />
+				<img src="img/UPTD_Agribisnis.jpg"/>
 				<h4>UPTD Agribisnis</h4>
 				<p>Melaksanakan kebijakan teknis di bidang agribisnis yang ruang lingkup kerjanya meliputi</p>
 				<a href="#" class="button-default">selengkapnya</a>
@@ -171,22 +171,28 @@
 			<h2>Foto Terbaru</h2>
 			<div class="row">
 				<div class="col-md-4 col-sm-4 col-xs-12">
-					<div class="frame-gallery">
-						<img src="img/PEnyuluh_resiza.jpg" />
-						<p>lorem ipsum dolor sit amet consectetur adipisicing elit</p>
-					</div>
+					<a class="fancybox" href="img/PEnyuluh_resiza.jpg" data-fancybox-group="gallery" title="lorem ipsum dolor sit amet consectetur adipisicing elit">
+						<div class="frame-gallery">
+							<img src="img/PEnyuluh_resiza.jpg" />
+							<p>lorem ipsum dolor sit amet consectetur adipisicing elit</p>
+						</div>
+					</a>
 				</div>
 				<div class="col-md-4 col-sm-4 col-xs-12">
-					<div class="frame-gallery">
-						<img src="img/images.jpg" width="100%" />
-						<p>lorem ipsum dolor sit amet consectetur</p>
-					</div>
+					<a class="fancybox" href="img/images.jpg" data-fancybox-group="gallery" title="lorem ipsum dolor sit amet consectetur">
+						<div class="frame-gallery">
+							<img src="img/images.jpg" width="100%" />
+							<p>lorem ipsum dolor sit amet consectetur</p>
+						</div>
+					</a>
 				</div>
 				<div class="col-md-4 col-sm-4 col-xs-12">
-					<div class="frame-gallery">
-						<img src="img/43Pertanian-India-2.jpg" width="100%" />
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
-					</div>
+					<a class="fancybox" href="img/43Pertanian-India-2.jpg" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod">
+						<div class="frame-gallery">
+							<img src="img/43Pertanian-India-2.jpg" width="100%" />
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+						</div>
+					</a>
 				</div>
 			</div>
 		</div>
